@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/brokeboiflex/dabundl/refs/heads/main/logo.webp)
+![alt text](https://raw.githubusercontent.com/brokeboiflex/dabundl/refs/heads/main/logo-wide.jpg)
 # Da bundl
 Need to use modern JavaScript or TypeScript in not so modern enviroments? Just bundle it with Da bundl!
 
